@@ -5,7 +5,7 @@ These codes were implemented with Python but WITHOUT any useful libraries.
 Therefore, it might be useful to implement Machine Learning algorithms with C.
 
 **Comments To USE**
-- ALL reports and comments on codes are wrtten in ENGLISH.
+- ALL reports and comments on codes are written in ENGLISH.
 - If you want to use my codes or reports (of course not for your classes in KTH lol), please let me know.
 - ALL reports were written by me, Jolke and Tousif.
 - ALL codes were implemented by me.
